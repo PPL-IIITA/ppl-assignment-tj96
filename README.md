@@ -11,7 +11,7 @@ ppl-assignment-tj96 created by GitHub Classroom
 - To see Documentation
 ```
   Open javadoc
-  Open index.html
+  Open index.html in browser
 ```
 
 - For Class Diagram
