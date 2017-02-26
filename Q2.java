@@ -120,9 +120,9 @@ public class Q2 {
                 }
             }
         }
-        System.out.println("k Most happiest couples are:");
+        System.out.println(k+" Most happiest couples are:");
         for(i=0;i<k && i<n;i++){
-            System.out.println(couples.get(i).getBf().getName()+" <3 "+couples.get(i).getGF().getName());
+            System.out.println(couples.get(i).getBf().getName()+" and "+couples.get(i).getGF().getName());
         }
         
         
@@ -137,9 +137,9 @@ public class Q2 {
                 }
             }
         }
-        System.out.println("k Most Compatible couples are:");
+        System.out.println(k+" Most Compatible couples are:");
         for(i=0;i<k && i<n;i++){
-            System.out.println(couples.get(i).getBf().getName()+" <3 "+couples.get(i).getGF().getName());
+            System.out.println(couples.get(i).getBf().getName()+" and "+couples.get(i).getGF().getName());
         }
         
         try {
