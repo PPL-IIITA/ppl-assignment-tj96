@@ -1,10 +1,8 @@
-# ppl-assignment
+# ppl-assignment- IIT2015075
 ppl-assignment-tj96 created by GitHub Classroom
 
-Tushar Jandial
-IIT2015075
-Section - A
-4th Sem
+-- Tushar Jandial
+-- Section - A
 
 - To see Documentation
 ```
