@@ -110,7 +110,7 @@ public class Q3 {
                 }
             }
         }
-        
+        input.close();
         
         int j,i,n = couples.size();
         for(i=0;i<n;i++){
@@ -133,7 +133,7 @@ public class Q3 {
             }
         }
         
-        
+        input = new Input(dir+"/k-value");
         int k = input.nextInt();
         
         input.close();

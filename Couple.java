@@ -3,9 +3,9 @@
 
 
 
-import Q1_2.Boy;
-import Q1_2.Gift;
-import Q1_2.Girl;
+import Q3.Boy.*;
+import Q3.Gift.*;
+import Q3.GIrl.*;
 import java.util.ArrayList;
 
 

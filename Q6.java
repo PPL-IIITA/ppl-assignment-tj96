@@ -27,7 +27,7 @@ import java.util.Scanner;
  *
  * @author tushar
  */
-public class Q3 {
+public class Q6 {
     
     public static void main(String args[]){
         String dir = System.getProperty("user.dir");
@@ -110,7 +110,7 @@ public class Q3 {
                 }
             }
         }
-        
+        input.close();
         
         int j,i,n = couples.size();
         for(i=0;i<n;i++){
@@ -133,7 +133,7 @@ public class Q3 {
             }
         }
         
-        
+        input = new Input(dir+"/k-value");
         int k = input.nextInt();
         
         input.close();
