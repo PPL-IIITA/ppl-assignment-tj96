@@ -10,12 +10,14 @@ ppl-assignment-tj96 created by GitHub Classroom
 
 - To see Documentation
 ```
+  Go to respective folder
   Open javadoc
   Open index.html in browser
 ```
 
 - For Class Diagram
 ```
+  Go to respective folder
   Open classDiagram.png
 ```
 
